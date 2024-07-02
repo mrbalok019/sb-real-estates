@@ -1,5 +1,4 @@
 
-**Github Link : https://github.com/programming-hero-web-course-4/b9a9-real-estate-mrbalok019***
 
 **Live Link : https://sb-real-estates.netlify.app/
 =======
